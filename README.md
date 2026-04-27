@@ -19,14 +19,14 @@ When I'm not working with data, I enjoy surfing the internet, creating content, 
       
 ##  What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Building a sales forecasting model in Python.
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
+- **Content Creation:** Creating a data analysis content.
 
 ##  Currently Learning 
 
-- [New skill I am currently learning: Advanced machine learning techniques]
-- [Other: Cloud data warehousing with Google BigQuery.]
+- <b>New skill I am currently learning:</b> Advanced machine learning techniques.
+- <b>Other:</b> Cloud data warehousing with Google BigQuery.
 
 ##  Technical Skillset
 
