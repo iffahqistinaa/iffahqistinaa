@@ -1,4 +1,4 @@
-## Hello there, I'm Iffah 👋
+## Hello, I'm Iffah 
 
 
 <!-- 🔗 Update these links with your own social media and contact information -->
