@@ -1,7 +1,6 @@
 ## Hello there, I'm Iffah 👋
 
 
-
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/iffah-qistinaa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -11,9 +10,9 @@
 ##  About Me 
 I'm a data enthusiast passionate about solving complex data problems. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building dashboards that get used, automating repetitive tasks to free up business teams to tackle more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy surfing the internet, creating content, and I am constantly learning new things. I love solving problems, and certainly, I love anything that is challenging.
+When I'm not working with data, I enjoy surfing the internet, creating content, and learning new things. I love solving problems, and certainly, I love anything that is challenging.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -26,8 +25,8 @@ When I'm not working with data, I enjoy surfing the internet, creating content, 
 
 ##  Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [New skill I am currently learning: Advanced machine learning techniques]
+- [Other: Cloud data warehousing with Google BigQuery.]
 
 ##  Technical Skillset
 
